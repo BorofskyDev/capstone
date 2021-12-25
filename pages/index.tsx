@@ -22,7 +22,7 @@ export default function Home() {
               Upgrade to premium!
             </button>
           ) : (
-            <h2>Have a cookie 🍪 Premium customer!</h2>
+            <h2>Thanks for being a member of our community</h2>
           )}
         </div>
       )}

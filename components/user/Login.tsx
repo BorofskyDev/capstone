@@ -1,5 +1,5 @@
 import React, { ReactElement } from "react";
-import firebase from "../../firebase/firebaseClient";
+import firebase from "../../firebase/firebaseClient"
 
 interface Props {}
 
